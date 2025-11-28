@@ -347,7 +347,7 @@ end
 
 ## 🤝 Contribution
 
-This project is created for TACO. To extend:
+. To extend:
 
 1. Fork the project
 2. Create a feature branch
@@ -449,7 +449,7 @@ Player moves → Distance calculated → Priority queue built
 
 ## 📦 Package Contents
 
-Tento package includes:
+This package includes:
 
 ✅ ChunkManager - Core system
 ✅ LOD System - Detail management
