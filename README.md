@@ -358,8 +358,7 @@ end
 ---
 
 ## 📄 License
-
-This project is created for TACO's personal use.
+I dont care much, just for my portfolio :)
 
 ---
 
